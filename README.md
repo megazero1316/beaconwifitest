@@ -1,1 +1,1 @@
-# beaconwifitest
+# beacon-wifi-test
